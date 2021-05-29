@@ -24,7 +24,7 @@ face_recognition
 
 Note that the used python version was python 3.9.5
 # Fire Detection Script: 
-function detect_from_video change the first argument in DetectObjectsFromVideo input_file_path to camera_input and change the function parameters to camera_input 
+function detect_from_video change the first argument in DetectObjectsFromVideo input_file_path to camera_input and change the function parameters to camera_input to enable working with your web cam if you want to read a video just leave it as it is 
 # RUN Script:
 change Detect_Fire arguments to the cv2.Video_Capture variable\
 change set cv2.Video_Capture to 0 to open the webcam 
