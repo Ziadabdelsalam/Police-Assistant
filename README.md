@@ -15,7 +15,7 @@ tensorflow 2.5.0\
 pandas\
 imageai\
 tkinter\
-face_recognition\
+face_recognition
 
 
 Note that the used python version was python 3.9.5
