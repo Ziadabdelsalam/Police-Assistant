@@ -4,6 +4,10 @@
 
 ## You Can find the remaining used files in this link : 
 
+# Environment:
+you need to install anaconda first then in the anaconda prompt create a new environment by using the following line conda create --name (name of your env)\
+then activate your env by typing conda activate (name of env)
+then install the following libs 
 # required Libs :
 PIL\
 torch\
